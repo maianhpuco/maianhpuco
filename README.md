@@ -25,8 +25,8 @@ I'm passionate about researching, developing data processing and AI engineering 
 
 📝 **Blog:**
 - Check out my latest articles on [maianh-learning.com](https://maianh-learning.com/blogs/domain_adaptation/) where I explore Semi-Supervised Method (to exploit small data for more general case) and Domain Adaptation (when the data distribution of the test set is not similar to train set) . 
-- [VAE]([Project_2_Link](https://github.com/maianhpuco/VAE): I write a tutorial about Variational Auto Encoder (VAEs)  (implementation) with illustration the differences compare to Auto Encoder and include example of application of VAEs in Topic Modeling 
-- [Domain Adaptation](https://github.com/maianhpuco/learning-domain-adaptation):  Another Tutorial of how to deal with domain shift problem by using re-weighting sample technique.
+- [VAE tutorials ](https://github.com/maianhpuco/VAE): I write a tutorial about Variational Auto Encoder (VAEs)  (implementation) with illustration the differences compare to Auto Encoder and include example of application of VAEs in Topic Modeling 
+- [Domain Adaptation tutorials ](https://github.com/maianhpuco/learning-domain-adaptation):  Another Tutorial of how to deal with domain shift problem by using re-weighting sample technique.
 
 
 - 
