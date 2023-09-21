@@ -4,7 +4,6 @@ I'm passionate about researching, developing data processing and AI engineering 
  
 
 🌟 **Key Skills:**
-## Skills
 
 - **Programming:** Proficient in Python and R.
 - **Frameworks:** Skilled in PyTorch, TensorFlow, and scikit-learn.
