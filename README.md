@@ -17,10 +17,12 @@ I'm passionate about researching, developing data processing and AI engineering 
   - Initiated a data-focused blog covering topics related to working with data, including semi-supervised learning and domain adaptation, available at [maianh-learning.com](https://maianh-learning.com/blogs/domain_adaptation/).
   - Part-time involvement in logo detection projects (Object Detection).
   - Participated in an Information Retrieval competition involving CLIP models.
+
  
 🚀 **Packages:**
 - [DIMV - A Data Imputation Package](https://github.com/maianhpuco/DIMVImputation):
   DIMV is a powerful data imputation package designed to handle missing data efficiently. It offers robust imputation with regularization, ensuring reliable results. DIMV is easy to implement using a scikit-learn-style API and can be installed with a simple `pip` command. Explore the GitHub repository for detailed documentation and examples. Enjoy seamless data imputation with DIMV! Yay! 
+
 
 
 📝 **Blog:**
@@ -29,9 +31,8 @@ I'm passionate about researching, developing data processing and AI engineering 
 - [Domain Adaptation tutorials ](https://github.com/maianhpuco/learning-domain-adaptation):  Another Tutorial of how to deal with domain shift problem by using re-weighting sample technique.
 
 
-- 
 🤝 **Let's Collaborate:**
-- I'm always open to new collaborations and exciting projects. Feel free to reach out to me at [Your Email](maianhuel@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/vu-mai-anh/).
+- I'm always open to new collaborations and exciting projects. Feel free to reach out to me at [maianhuel@gmail.com](maianhuel@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/vu-mai-anh/).
 
 📫 **Contact Me:**
 - 📧 Email: [Your Email](maianhuel@gmail.com)
