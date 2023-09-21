@@ -1,7 +1,5 @@
 # Hi, I'm  Mai-Anh Vu (you can call me Anh) ! 👋
 
-![Profile Banner](link_to_banner_image)
-
 I'm passionate about researching, developing data processing and AI engineering packages, writing blogs, and participating in AI competitions. 
  
 
