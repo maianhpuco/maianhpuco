@@ -9,7 +9,7 @@ I'm passionate about researching, developing data processing and AI engineering 
 - **Frameworks:** Skilled in PyTorch, TensorFlow, and scikit-learn.
 - **Deep Learning:** Experienced in implementing CNNs and Transformers for various tasks, including Image Segmentation, Object Detection, Optical Character Recognition (OCR), and Image Retrieval Model (with CLIP).
 - **Research Skills:** Actively researched statistics, machine learning, and deep learning. I have three papers submitted to conferences and academic journals, with one as the first author.
-- **Data Pipeline:** Experienced in SQL (BigQuery) and Airflow for building robust data pipelines, conducting A/B testing, and developing recommendation modules, including my work at Tiki.
+- **Data Pipeline:** Experienced in SQL (BigQuery) and Airflow for building robust data pipelines, conducting A/B testing, and developing recommendation modules, 
 - **Data Analytics:** Proficient in e-commerce product and customer segmentation.
 - **Other Experiences:**
   - Developed a package for missing data imputation, available at [DIMVImputation](https://github.com/maianhpuco/DIMVImputation).
