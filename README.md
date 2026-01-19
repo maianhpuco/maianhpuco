@@ -1,33 +1,45 @@
-# Hi, I'm  Mai-Anh Vu (you can call me Anh) ! 👋
+# Hi, I'm  Anh Mai Vu (you can call me Anh) ! 👋
 
-I'm passionate about researching, developing data processing and AI engineering packages, writing blogs, and participating in AI competitions. 
+My research focuses on AI in healthcare, with two main directions. First, I develop trustworthy and interpretable AI systems using explainable (XAI) models, reasoning frameworks, and visual grounding techniques to enable transparent and reliable clinical decision-making. Second, I advance human-centered AI by integrating human gaze data, medical images, and clinical reports to align model reasoning with clinicians’ workflows and improve diagnostic accuracy. 
  
 
 🌟 **Key Skills:**
+- Programming: Python, C/C++, MATLAB, Bash/Shell, SQL 
+- Machine Learning & Deep Learning: PyTorch, TensorFlow, Keras, FastAI, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+- Methods & Topics: Vision–Language Models (VLMs), XAI methods, Multimodal Fusion, Reasoning, Grounding 
+- Computer Vision: OpenCV, torchvision, Albumentations, Detectron (detection, segmentation, tracking), openslide
+- LLMs & Agentic AI: Hugging Face Transformers, LlamaIndex, LangChain, RAG, PEFT (LoRA/QLoRA), vLLM, prompt engineering and AI reasoning 
 
-- **Programming:** Proficient in Python and R.
-- **Frameworks:** Skilled in PyTorch, TensorFlow, and scikit-learn.
-- **Deep Learning:** Experienced in implementing CNNs and Transformers for various tasks, including Image Segmentation, Object Detection, Optical Character Recognition (OCR), and Image Retrieval Model (with CLIP).
-- **Research Skills:** Actively researched statistics, machine learning, and deep learning. I have three papers submitted to conferences and academic journals, with one as the first author.
-- **Data Pipeline:** Experienced in SQL (BigQuery) and Airflow for building robust data pipelines, conducting A/B testing, and developing recommendation modules, 
-- **Data Analytics:** Proficient in e-commerce product and customer segmentation.
-- **Other Experiences:**
-  - Developed a package for missing data imputation, available at [DIMVImputation](https://github.com/maianhpuco/DIMVImputation).
-  - Initiated a data-focused blog covering topics related to working with data, including semi-supervised learning and domain adaptation, available at [maianh-learning.com](https://maianh-learning.com/blogs/domain_adaptation/).
-  - Part-time involvement in logo detection projects (Object Detection).
-  - Participated in an Information Retrieval competition involving CLIP models.
 
+## 🔓 Public Repositories
+
+
+- **CIG – Contrastive Integrated Gradients (Accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026)**  
+  Official implementation of *Contrastive Integrated Gradients: A Feature Attribution-Based Method for Explaining Whole Slide Image Classification* (WACV 2026).  
+  📄 Paper: https://arxiv.org/abs/2511.08464  
+  🔗 Code: https://github.com/maianhpuco/CIG
+  
+- **DIMVImputation**  
+  A Python package for missing data imputation with support for multivariate and incomplete data scenarios.  
+  🔗 https://github.com/maianhpuco/DIMVImputation  
+
+- **DualProtoSeg**  
+  Prototype-based weakly supervised segmentation framework for histopathology images.  
+  📄 Preprint: https://arxiv.org/pdf/2512.10314v1 *(under submission)*  
+  🔗 Code: https://github.com/maianhpuco/DualProtoSeg  
+
+- **Data & ML Blog**  
+  Personal technical blog covering data-centric AI topics such as semi-supervised learning, domain adaptation, and practical ML workflows.  
+  🌐 https://maianh-learning.com/blogs/domain_adaptation/
+
+- **VAE Tutorials**  
+  🔗 https://github.com/maianhpuco/VAE  
+  A hands-on tutorial on **Variational Autoencoders (VAEs)**, including implementation details, comparisons with standard Autoencoders, and real-world applications such as **topic modeling**.
+
+- **Domain Adaptation Tutorials**  
+  🔗 https://github.com/maianhpuco/learning-domain-adaptation  
+  A practical guide on handling **domain shift** using **sample re-weighting techniques** for robust model generalization.
  
-🚀 **Packages:**
-- [DIMV - A Data Imputation Package](https://github.com/maianhpuco/DIMVImputation):
-  DIMV is a powerful data imputation package designed to handle missing data efficiently. It offers robust imputation with regularization, ensuring reliable results. DIMV is easy to implement using a scikit-learn-style API and can be installed with a simple `pip` command. Explore the GitHub repository for detailed documentation and examples. Enjoy seamless data imputation with DIMV! Yay! 
-
-
-
-📝 **Blog:**
-- Check out my latest articles on [maianh-learning.com](https://maianh-learning.com/blogs/domain_adaptation/) where I explore Semi-Supervised Method (to exploit small data for more general case) and Domain Adaptation (when the data distribution of the test set is not similar to train set) . 
-- [VAE tutorials ](https://github.com/maianhpuco/VAE): I write a tutorial about Variational Auto Encoder (VAEs)  (implementation) with illustration the differences compare to Auto Encoder and include example of application of VAEs in Topic Modeling 
-- [Domain Adaptation tutorials ](https://github.com/maianhpuco/learning-domain-adaptation):  Another Tutorial of how to deal with domain shift problem by using re-weighting sample technique.
 
 
 🤝 **Let's Collaborate:**
