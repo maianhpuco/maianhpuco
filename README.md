@@ -4,7 +4,7 @@ My research focuses on AI in healthcare, with two main directions. First, I deve
  
 
 🌟 **Key Skills:**
-- Programming: Python, C/C++, MATLAB, Bash/Shell, SQL 
+- Programming: Python, Bash/Shell, SQL 
 - Machine Learning & Deep Learning: PyTorch, TensorFlow, Keras, FastAI, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 - Methods & Topics: Vision–Language Models (VLMs), XAI methods, Multimodal Fusion, Reasoning, Grounding 
 - Computer Vision: OpenCV, torchvision, Albumentations, Detectron (detection, segmentation, tracking), openslide
